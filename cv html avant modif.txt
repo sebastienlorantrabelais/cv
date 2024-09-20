@@ -9,7 +9,9 @@
         <h2>Cv Sébastien Lorant</h2> 
             
             <table>
+
                 <tr>
+
                 <td colspan="1"> Lorant <br/>
                     Sébastien <br/>
                 France <br/>
@@ -17,7 +19,7 @@
                 en couple <br/>
                 lorantsebastien61@gmail.com
                 </td>
-                <td colspan="1"><img src="sio.png" alt="texte sio" border ="5"></td>
+                <td colspan="1"><img src="sio.png" alt="texte sio" width="" height="" border ="5"></td>
                 </tr>
         </table>
      <div id="études"  >

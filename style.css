@@ -1,8 +1,15 @@
+
+body {background-color: aqua}
+a:link { color:rgb(5, 90, 24); text-decoration:none; }
+a:hover { color:rgb(255, 255, 255);}
+tr:nth-child(odd) {
+    background-color: aqua;
+}
 h2 { font-family: Arial ;
      font-size: 12pt; 
      color: blue 
 }
-     
+
 #études{
     border-right: #000000 1px solid;
     border-top: #000000 1px solid;
@@ -11,13 +18,15 @@ h2 { font-family: Arial ;
     background-color: #d18585
     
 }
+
 #compétances_informatiques{
     border-right: #000000 1px solid;
     border-top: #000000 1px solid;
     border-left: #000000 1px solid;
     border-bottom: #000000 1px solid;
-    background-color: #000000
+    background-color: #da4c4c
 }
+
 #expérience_professionnelles{
     border-right: #000000 1px solid;
     border-top: #000000 1px solid;
@@ -25,11 +34,12 @@ h2 { font-family: Arial ;
     border-bottom: #000000 1px solid;
     background-color: #ff0000
 }
+
 #divers{
     border-right: #000000 1px solid;
     border-top: #000000 1px solid;
     border-left: #000000 1px solid;
     border-bottom: #000000 1px solid;
-    background-color: #5f1e1e
+    background-color: #782222
 }
 
